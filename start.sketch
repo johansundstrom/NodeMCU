@@ -1,3 +1,7 @@
+//https://bblanchon.github.io/ArduinoJson/doc/decoding/
+
+
+
 ´#include <ArduinoJson.h>´
 
 ´StaticJsonBuffer<300> JSONBuffer;´
@@ -16,7 +20,8 @@ int value = parsed["Value"];´
  
   Serial.println("—————— -");
  
-  char JSONMessage[] = " {\"SensorType\": \"Temperature\", \"Value\": 10}"; //Original message
+  // JSON is in memory
+  char JSONMessage[] = " {\"SensorType\": \"Temperature\", \"Value\": 10}"; //Original message
   Serial.print("Initial string value: ");
   Serial.println(JSONMessage);
  
