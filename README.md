@@ -2,7 +2,7 @@
 
 ## Allt om NodeMcu Lua ESP8266 ESP-12E WIFI Development Board
 
-Innehåller ESP8266 (Espressif Systems) samt CP2102 (USB till UART).
+Enheten innehåller ESP8266 (Espressif Systems), CP2102 (USB till UART) LD33 (Spänningsregulator 3V3).
 
 <img src="https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg">
 
