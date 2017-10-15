@@ -4,7 +4,7 @@
 
 Innehåller ESP8266 (Espressif Systems) samt CP2102 (USB till UART).
 
-<img src="https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg>
+<img src="https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg">
 
 Två versioner
 * NodeMCU v0.9 with ESP-12 module (bredare)
