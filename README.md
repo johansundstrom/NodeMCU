@@ -8,10 +8,15 @@ Innehåller ESP8266 (Espressif Systems) samt CP2102 (USB till UART).
 
 Två versioner
 * NodeMCU v0.9 with ESP-12 module (bredare)
-* NodeMCU v1.0 with ESP-12E module 
+* NodeMCU v1.0 with ESP-12E module (ryms på ett breadboard med anslutningar)
 
+Alternativ 
+* WeMos D1 mini - 1/3 kortare
+* Adafruit HUZZAH ESP8266 Breakout (LiPo kontakt)
+
+ESP-12E Specs
+* Storage: 4MB Flash
+* Clock: 80MHz
+
+Pinout NodeMCU v1.0
 <img src="https://bennthomsen.files.wordpress.com/2015/12/nodemcu_pinout_700-2.png">
-
-
-
-Print a JSON value after GET
